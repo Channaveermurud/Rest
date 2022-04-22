@@ -172,4 +172,8 @@ public class TC_1 extends base{
 	public void demo4() {
 		System.out.println("dwq");
 	}
+	public void demo5() {
+		System.out.println("ghh");
+	}
+	
 }
