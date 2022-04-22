@@ -157,4 +157,8 @@ public class TC_1 extends base{
 			Assert.assertTrue(fn.equalsIgnoreCase("Sallyy")); */
 	}
 	
+	public void demo() {
+		System.out.println("Anu");
+	}
+	
 }
